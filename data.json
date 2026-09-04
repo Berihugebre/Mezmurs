@@ -1,6 +1,37 @@
 {
+  [
   {
   "id": 1,
-  "title": "ናይ ጥምቀት"
+  "title": "ናይ ጥምቀት",
+  "songs":[
+      {
+      "id":1000,
+      "title":"Aaaaaaaa"
+      "song": "dkjsfajasdjkfkjdfjs \n sdkfasdfkjlkjdsfjkjkjkfldsjl \n \n "
+    },
+      {
+      "id":1001,
+      "title":"Bbbbbbbbbbb"
+      "song": "dkjsfajasdjkfkjdfjs \n sdkfasdfkjlkjdsfjkjkjkfldsjl \n \n "
+    }
+  ]
+  },
+
+{
+  "id": 1,
+  "title": "ናይ Mera",
+  "songs":[
+      {
+      "id":2000,
+      "title":"Aaaaaaaa"
+      "song": "dkjsfajasdjkfkjdfjs \n sdkfasdfkjlkjdsfjkjkjkfldsjl \n \n "
+    },
+      {
+      "id":2001,
+      "title":"Bbbbbbbbbbb"
+      "song": "dkjsfajasdjkfkjdfjs \n sdkfasdfkjlkjdsfjkjkjkfldsjl \n \n "
+    }
+  ]
   }
+]
 }
